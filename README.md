@@ -31,8 +31,12 @@ ax.grid(axis="y", linestyle="--", alpha=0.3)
 plt.tight_layout()
 plt.show()
 ```
-*oke sekian terima kasih*
 <p align="center">
-  <img src="https://github.com/Tuanrazz/assets/blob/main/neon-glow.gif" width="300px" />
+  <svg width="100%" height="80">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+      style="fill:#0ff; font-size:30px; font-family:monospace; filter: drop-shadow(0 0 5px #0ff)">
+      sekian terimakasih 
+    </text>
+  </svg>
 </p>
 
