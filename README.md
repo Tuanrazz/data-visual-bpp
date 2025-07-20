@@ -5,7 +5,7 @@
 **untuk code nya seperti ini:**
 
 
-```
+`
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -30,7 +30,7 @@ ax.set_ylabel("Total Penjualan")
 ax.grid(axis="y", linestyle="--", alpha=0.3)
 plt.tight_layout()
 plt.show()
-```
+`
 <p align="center">
   <svg width="100%" height="80">
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
