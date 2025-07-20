@@ -32,4 +32,7 @@ plt.tight_layout()
 plt.show()
 ```
 *oke sekian terima kasih*
+<p align="center">
+  <img src="https://github.com/Tuanrazz/assets/blob/main/neon-glow.gif" width="300px" />
+</p>
 
