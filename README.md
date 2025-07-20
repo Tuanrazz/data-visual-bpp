@@ -4,7 +4,7 @@
 
 **untuk code nya seperti ini:**
 
-```'''script tuanrazz,
+``` '''script tuanrazz,
  jangan lupa follow'''
 
 import pandas as pd
@@ -31,3 +31,4 @@ ax.set_ylabel("Total Penjualan")
 ax.grid(axis="y", linestyle="--", alpha=0.3)
 plt.tight_layout()
 plt.show() ```
+
