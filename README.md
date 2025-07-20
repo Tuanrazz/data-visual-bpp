@@ -4,8 +4,7 @@
 
 ## untuk code nya seperti ini:
 
-````
-.py
+````.py
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
