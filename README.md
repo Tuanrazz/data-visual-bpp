@@ -2,8 +2,7 @@
 
 **ini adalah visualisasi data buku penggaris dan pulpen, menggunakan library numpy, matplotlib dan pandas**
 
-**untuk code nya seperti ini:**
-
+## untuk code nya seperti ini:
 
 ````
 import pandas as pd
@@ -31,12 +30,7 @@ ax.grid(axis="y", linestyle="--", alpha=0.3)
 plt.tight_layout()
 plt.show()
 ````
-<p align="center">
-  <svg width="100%" height="80">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      style="fill:#0ff; font-size:30px; font-family:monospace; filter: drop-shadow(0 0 5px #0ff)">
-      sekian terimakasih 
-    </text>
-  </svg>
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=400&lines=Sekian,+Terima+Kasih+🙏" />
+</p>
